@@ -1,0 +1,6 @@
+=Proyecto Integrador=
+Materia:Programacion Logica y funcional
+Tema:4.-Modelo de programacion logica
+Integrantes:
+Caballero Barrera Diego Jesús
+Cen Yam Luis David
